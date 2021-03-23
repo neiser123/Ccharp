@@ -53,21 +53,21 @@ namespace consolaCurso
             salariomensual = salariomensual;
         }
 
-        static void Main(String[] arg)
-        {
+        //static void Main(String[] arg)
+        //{
 
-            // clase estatic
-            var persona1 = new Persona()
-            { Fechanacimiento = new DateTime(1980, 1, 5) };
-            Console.WriteLine("edad de la persona" + persona1.Edad);
+        //    // clase estatic
+        //    var persona1 = new Persona()
+        //    { Fechanacimiento = new DateTime(1980, 1, 5) };
+        //    Console.WriteLine("edad de la persona" + persona1.Edad);
 
-            //Persona persona = new Persona();
+        //    //Persona persona = new Persona();
 
-            //persona.telefonos.Add("454121212");
-            //Persona persona2 = new Persona("NEISER", 15000);
-            //persona2.telefonos.Add("77757575");
-            //Console.WriteLine(persona.telefonos);
-        }
+        //    //persona.telefonos.Add("454121212");
+        //    //Persona persona2 = new Persona("NEISER", 15000);
+        //    //persona2.telefonos.Add("77757575");
+        //    //Console.WriteLine(persona.telefonos);
+        //}
 
 
         public String nombre { get; set; }
