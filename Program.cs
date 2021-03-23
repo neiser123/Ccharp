@@ -53,14 +53,14 @@ namespace consolaCurso
             salariomensual = salariomensual;
         }
 
-        static void Main(String[] arg)
-        {
-            Persona persona = new Persona();
-            persona.telefonos.Add("454121212");
-            Persona persona2 = new Persona("NEISER" , 15000);
-            persona2.telefonos.Add("77757575");
-            Console.WriteLine(persona.telefonos);
-        }
+        //static void Main(String[] arg)
+        //{
+        //    Persona persona = new Persona();
+        //    persona.telefonos.Add("454121212");
+        //    Persona persona2 = new Persona("NEISER" , 15000);
+        //    persona2.telefonos.Add("77757575");
+        //    Console.WriteLine(persona.telefonos);
+        //}
 
 
         public String nombre { get; set; }
