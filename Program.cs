@@ -10,11 +10,25 @@ namespace consolaCurso
 
         static void Main(String[] arg)
         {
-            Persona persona = new Persona();
-            persona.nombre = "neiser";
-            persona.nombre = "paola";
-            Console.WriteLine(persona.nombre);
+            //Persona persona = new Persona();
+            //persona.nombre = "neiser";
+            //persona.nombre = "paola";
+            //persona.salariomensual = 1000;
 
+            //Console.WriteLine(persona.nombre);
+            //Console.WriteLine(" salario anual : "+persona.salarioAnual);
+
+
+            Persona persona = new Persona();
+            var numero = 5;
+            Aumentar(ref numero);
+            Console.WriteLine(numero);
+
+
+        }
+        public static void Aumentar(ref int aumentar)
+        {
+            aumentar++;
         }
 
     }
@@ -25,6 +39,11 @@ namespace consolaCurso
 
 
         public String nombre { get; set; }
+        public decimal salariomensual { get; set; }
+        
+        public decimal salarioAnual { get {
+                return salariomensual * 12;   }
+        }
 
 
 
