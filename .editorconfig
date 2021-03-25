@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0006: No se encontró el archivo de metadatos 'C:\Users\NEISER\source\repos\aplicacioFinalcursoPOO\Infraestructura\bin\Debug\netcoreapp3.1\Infraestructura.dll'
+dotnet_diagnostic.CS0006.severity = error

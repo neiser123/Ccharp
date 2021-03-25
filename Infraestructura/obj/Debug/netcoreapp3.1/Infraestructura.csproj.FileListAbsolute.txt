@@ -1,0 +1,12 @@
+C:\Users\NEISER\source\repos\aplicacioFinalcursoPOO\Infraestructura\obj\Debug\netcoreapp3.1\Infraestructura.csprojAssemblyReference.cache
+C:\Users\NEISER\source\repos\aplicacioFinalcursoPOO\Infraestructura\obj\Debug\netcoreapp3.1\Infraestructura.AssemblyInfoInputs.cache
+C:\Users\NEISER\source\repos\aplicacioFinalcursoPOO\Infraestructura\obj\Debug\netcoreapp3.1\Infraestructura.AssemblyInfo.cs
+C:\Users\NEISER\source\repos\aplicacioFinalcursoPOO\Infraestructura\obj\Debug\netcoreapp3.1\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\NEISER\source\repos\aplicacioFinalcursoPOO\Infraestructura\bin\Debug\netcoreapp3.1\Infraestructura.deps.json
+C:\Users\NEISER\source\repos\aplicacioFinalcursoPOO\Infraestructura\bin\Debug\netcoreapp3.1\Infraestructura.dll
+C:\Users\NEISER\source\repos\aplicacioFinalcursoPOO\Infraestructura\bin\Debug\netcoreapp3.1\Infraestructura.pdb
+C:\Users\NEISER\source\repos\aplicacioFinalcursoPOO\Infraestructura\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\NEISER\source\repos\aplicacioFinalcursoPOO\Infraestructura\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\NEISER\source\repos\aplicacioFinalcursoPOO\Infraestructura\obj\Debug\netcoreapp3.1\Infraestructura.csproj.CopyComplete
+C:\Users\NEISER\source\repos\aplicacioFinalcursoPOO\Infraestructura\obj\Debug\netcoreapp3.1\Infraestructura.dll
+C:\Users\NEISER\source\repos\aplicacioFinalcursoPOO\Infraestructura\obj\Debug\netcoreapp3.1\Infraestructura.pdb
